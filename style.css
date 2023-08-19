@@ -521,7 +521,7 @@ section {
     min-height: 0em;
     overflow: hidden;
     border-radius: 30px;
-    margin: 20px;
+    margin-top: 20px;
     transition: 1.7s ease;
 
 }
